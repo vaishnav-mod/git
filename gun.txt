@@ -1,0 +1,2 @@
+Yes, I can unstash or stash the added commit using $ git stash
+
