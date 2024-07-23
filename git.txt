@@ -1,0 +1,4 @@
+git log 
+merging history 
+git rm log/\*~
+
