@@ -2,3 +2,9 @@ git log
 merging history 
 git rm log/\*~
 
+now I have successfully added the file to github repo and now 
+I'm about to see all my logs, one last thing is remanning is to 
+manupulate commits
+that I'll do,
+see you later
+
